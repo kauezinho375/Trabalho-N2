@@ -1,3 +1,5 @@
+// Trabalho Feito por : Gabriel Henrique Maciel e Kaue de Oliveira
+
 #include <stdio.h>    // printf e scanf — nossos melhores amigos
 #include <stdlib.h>   // system() pra limpar a tela e mudar cor
 #include <ctype.h>    // toupper() — porque o jogador pode digitar em minúsculo
