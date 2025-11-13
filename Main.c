@@ -51,7 +51,7 @@ int validarMovimento(int labirinto[N][N], int novoX, int novoY, int *temChave, i
     if (labirinto[novoX][novoY] == 1)
     {
         printf("🌳 Arvores! nao se sabe oque tem na floresta!\n");
-        (*pontos) -= 5;
+        (*pontos) -= 10;
         return 0;
     }
 
